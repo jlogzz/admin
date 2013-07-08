@@ -1,0 +1,4 @@
+worker1:
+	name: Juan
+	type: php
+	exec: twitterstream.php
